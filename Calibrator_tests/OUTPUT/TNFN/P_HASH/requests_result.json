@@ -1,0 +1,248 @@
+[
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|6c8186c4-f8ae-4deb-87bc-28e9e8082883",
+                "decision": "NO",
+                "distance": 0.09375
+            },
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "NO",
+                "distance": 0.1015625
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6c8186c4-f8ae-4deb-87bc-28e9e8082883",
+                "decision": "NO",
+                "distance": 0.09375,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "NO",
+                "distance": 0.1015625,
+                "image_id": "kbc1.png"
+            }
+        ],
+        "request_id": "csgo1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "NO",
+                "distance": 0.1015625
+            },
+            {
+                "cluster_id": "cluster|b131763c-60c4-4c5e-915d-71c8f09213c5",
+                "decision": "NO",
+                "distance": 0.109375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "NO",
+                "distance": 0.1015625,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|b131763c-60c4-4c5e-915d-71c8f09213c5",
+                "decision": "NO",
+                "distance": 0.109375,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "webmail1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6c8186c4-f8ae-4deb-87bc-28e9e8082883",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.09375
+            },
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "NO",
+                "distance": 0.125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6c8186c4-f8ae-4deb-87bc-28e9e8082883",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.09375,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "NO",
+                "distance": 0.125,
+                "image_id": "webmail2.png"
+            }
+        ],
+        "request_id": "csgo2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.1015625
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.1015625,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.125,
+                "image_id": "webmail1.png"
+            }
+        ],
+        "request_id": "kbc1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|b131763c-60c4-4c5e-915d-71c8f09213c5",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.109375
+            },
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "NO",
+                "distance": 0.125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|b131763c-60c4-4c5e-915d-71c8f09213c5",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.109375,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|bff88c38-0801-4533-b7f4-40dc1917a069",
+                "decision": "NO",
+                "distance": 0.125,
+                "image_id": "kbc1.png"
+            }
+        ],
+        "request_id": "kbc2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.1015625
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|132e0bbc-a7b2-4d06-a18d-6b4366fe5292",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|217a8b34-f75d-479d-a3e9-e9c1320168bb",
+                "decision": "NO",
+                "distance": 0.1015625,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|d6babf7b-bfbe-4f46-a531-0047bc364b1e",
+                "decision": "NO",
+                "distance": 0.125,
+                "image_id": "csgo1.png"
+            }
+        ],
+        "request_id": "webmail2.png",
+        "status": "matches_found"
+    }
+]

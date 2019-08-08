@@ -1,0 +1,154 @@
+{
+    "meta": {
+        "source": "DBDUMP"
+    },
+    "clusters": [],
+    "nodes": [
+        {
+            "label": "csgo1.png",
+            "id": "csgo1.png",
+            "image": "csgo1.png",
+            "shape": "image"
+        },
+        {
+            "label": "webmail1.png",
+            "id": "webmail1.png",
+            "image": "webmail1.png",
+            "shape": "image"
+        },
+        {
+            "label": "csgo2.png",
+            "id": "csgo2.png",
+            "image": "csgo2.png",
+            "shape": "image"
+        },
+        {
+            "label": "kbc1.png",
+            "id": "kbc1.png",
+            "image": "kbc1.png",
+            "shape": "image"
+        },
+        {
+            "label": "kbc2.png",
+            "id": "kbc2.png",
+            "image": "kbc2.png",
+            "shape": "image"
+        },
+        {
+            "label": "webmail2.png",
+            "id": "webmail2.png",
+            "image": "webmail2.png",
+            "shape": "image"
+        }
+    ],
+    "edges": [
+        {
+            "from": "csgo1.png",
+            "to": "csgo2.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.1566",
+            "value": 0.1566
+        },
+        {
+            "from": "csgo1.png",
+            "to": "kbc1.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "NO:0.4206",
+            "value": 0.4206
+        },
+        {
+            "from": "webmail1.png",
+            "to": "webmail2.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.1052",
+            "value": 0.1052
+        },
+        {
+            "from": "webmail1.png",
+            "to": "kbc2.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "MAYBE:0.1616",
+            "value": 0.1616
+        },
+        {
+            "from": "csgo2.png",
+            "to": "csgo1.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.1566",
+            "value": 0.1566
+        },
+        {
+            "from": "csgo2.png",
+            "to": "kbc1.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "NO:0.4238",
+            "value": 0.4238
+        },
+        {
+            "from": "kbc1.png",
+            "to": "webmail2.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.0631",
+            "value": 0.0631
+        },
+        {
+            "from": "kbc1.png",
+            "to": "kbc2.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "MAYBE:0.0698",
+            "value": 0.0698
+        },
+        {
+            "from": "kbc2.png",
+            "to": "webmail2.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.0624",
+            "value": 0.0624
+        },
+        {
+            "from": "kbc2.png",
+            "to": "kbc1.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "MAYBE:0.0698",
+            "value": 0.0698
+        },
+        {
+            "from": "webmail2.png",
+            "to": "kbc2.png",
+            "color": {
+                "color": "#00FF00"
+            },
+            "label": "MAYBE:0.0624",
+            "value": 0.0624
+        },
+        {
+            "from": "webmail2.png",
+            "to": "kbc1.png",
+            "color": {
+                "color": "#887700"
+            },
+            "label": "MAYBE:0.0631",
+            "value": 0.0631
+        }
+    ]
+}

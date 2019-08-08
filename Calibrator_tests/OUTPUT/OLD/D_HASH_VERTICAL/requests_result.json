@@ -1,0 +1,296 @@
+[
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.078125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0625,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.078125,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.125,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.140625,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "csgo1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.109375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.109375,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1171875,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.125,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1328125,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "webmail1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0859375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0625,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0859375,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1171875,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.12109375,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1328125,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "csgo2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.078125,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0859375,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.109375,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.125,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "kbc1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.125
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.125,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1328125,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.1328125,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.140625,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.15234375,
+                "image_id": "webmail2.png"
+            }
+        ],
+        "request_id": "kbc2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.10546875,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.12109375,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|6bc5c441-d6af-484a-8505-ff89bfc2344f",
+                "decision": "YES",
+                "distance": 0.15234375,
+                "image_id": "kbc2.png"
+            }
+        ],
+        "request_id": "webmail2.png",
+        "status": "matches_found"
+    }
+]

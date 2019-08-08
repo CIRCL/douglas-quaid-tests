@@ -1,0 +1,7 @@
+{
+    "TOP_N_CLUSTERS": 3,
+    "TOP_N_PICTURES": 10,
+    "PICT_TO_TEST_PER_CLUSTER": 1,
+    "MAX_DIST_FOR_NEW_CLUSTER": 0.11,
+    "CROSSCHECK": true
+}

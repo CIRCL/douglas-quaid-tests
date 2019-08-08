@@ -1,0 +1,60 @@
+{
+  'Call_method': 'GET',
+  'Call_time': 'Tue May 28 08:31:19 2019',
+  'Called_function': 'export_db',
+  'Status': 'Success',
+  'db': {
+    'clusters': [
+      {
+        'id': 'cluster|aaf0f665-4016-425b-acda-c0b3a347abc7',
+        'image': 'anchor.bmp',
+        'shape': 'image'
+      }
+    ],
+    'edges': [
+      {
+        'from': 'cluster|aaf0f665-4016-425b-acda-c0b3a347abc7',
+        'label': 2.0,
+        'title': '',
+        'to': '1305a22ac12deedd5cd712a7649ce37f47ae9aed',
+        'value': 2.0
+      },
+      {
+        'from': 'cluster|aaf0f665-4016-425b-acda-c0b3a347abc7',
+        'label': 2.0,
+        'title': '',
+        'to': '16c93ac9f297376b1b44eeeecff141b1f59a239d',
+        'value': 2.0
+      },
+      {
+        'from': 'cluster|aaf0f665-4016-425b-acda-c0b3a347abc7',
+        'label': 2.0,
+        'title': '',
+        'to': '523e36ccb40afc461010c7eb70928610f302c1c7',
+        'value': 2.0
+      }
+    ],
+    'nodes': [
+      {
+        'id': 'cluster|aaf0f665-4016-425b-acda-c0b3a347abc7',
+        'image': 'anchor.bmp',
+        'shape': 'image'
+      },
+      {
+        'id': '1305a22ac12deedd5cd712a7649ce37f47ae9aed',
+        'image': '1305a22ac12deedd5cd712a7649ce37f47ae9aed.bmp',
+        'shape': 'image'
+      },
+      {
+        'id': '16c93ac9f297376b1b44eeeecff141b1f59a239d',
+        'image': '16c93ac9f297376b1b44eeeecff141b1f59a239d.bmp',
+        'shape': 'image'
+      },
+      {
+        'id': '523e36ccb40afc461010c7eb70928610f302c1c7',
+        'image': '523e36ccb40afc461010c7eb70928610f302c1c7.bmp',
+        'shape': 'image'
+      }
+    ]
+  }
+}

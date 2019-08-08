@@ -1,0 +1,139 @@
+{
+    "FEATURE_ADDER_WORKER_NB": 2,
+    "FEATURE_ADDER_WAIT_SEC": 1,
+    "FEATURE_REQUEST_WORKER_NB": 2,
+    "FEATURE_REQUEST_WAIT_SEC": 1,
+    "A_HASH": {
+        "algo_name": "A_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.1,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "P_HASH": {
+        "algo_name": "P_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.11,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "P_HASH_SIMPLE": {
+        "algo_name": "P_HASH_SIMPLE",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.09,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "D_HASH": {
+        "algo_name": "D_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.11,
+        "threshold_maybe_to_no": 0.11,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "D_HASH_VERTICAL": {
+        "algo_name": "D_HASH_VERTICAL",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.08,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "W_HASH": {
+        "algo_name": "W_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.08,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "TLSH": {
+        "algo_name": "TLSH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.18,
+        "threshold_maybe_to_no": 0.23,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "ORB": {
+        "algo_name": "ORB",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.01,
+        "threshold_maybe_to_no": 0.16,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    "ORB_KEYPOINTS_NB": 500,
+    "list_algos": [
+        {
+            "algo_name": "A_HASH",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.1,
+            "threshold_maybe_to_no": 0.12,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "P_HASH",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.11,
+            "threshold_maybe_to_no": 0.12,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "P_HASH_SIMPLE",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.09,
+            "threshold_maybe_to_no": 0.12,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "D_HASH",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.11,
+            "threshold_maybe_to_no": 0.11,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "D_HASH_VERTICAL",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.08,
+            "threshold_maybe_to_no": 0.12,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "W_HASH",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.08,
+            "threshold_maybe_to_no": 0.12,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "TLSH",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.18,
+            "threshold_maybe_to_no": 0.23,
+            "distance_weight": 1,
+            "decision_weight": 1
+        },
+        {
+            "algo_name": "ORB",
+            "is_enabled": true,
+            "threshold_yes_to_maybe": 0.01,
+            "threshold_maybe_to_no": 0.16,
+            "distance_weight": 1,
+            "decision_weight": 1
+        }
+    ],
+    "DISTANCE_MERGING_METHOD": "WEIGHTED_MEAN",
+    "DECISION_MERGING_METHOD": "WEIGHTED_MAJORITY"
+}

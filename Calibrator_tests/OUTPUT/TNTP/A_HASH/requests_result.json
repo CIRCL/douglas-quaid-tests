@@ -1,0 +1,248 @@
+[
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "NO",
+                "distance": 0.0859375
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "NO",
+                "distance": 0.09375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "NO",
+                "distance": 0.0859375,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "NO",
+                "distance": 0.09375,
+                "image_id": "webmail1.png"
+            }
+        ],
+        "request_id": "csgo1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|2f22daf6-624a-43ad-a18a-f66fd725bf64",
+                "decision": "MAYBE",
+                "distance": 0.0703125
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.09375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|2f22daf6-624a-43ad-a18a-f66fd725bf64",
+                "decision": "MAYBE",
+                "distance": 0.0703125,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.09375,
+                "image_id": "csgo1.png"
+            }
+        ],
+        "request_id": "webmail1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.0859375
+            },
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "NO",
+                "distance": 0.10546875
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.0859375,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "NO",
+                "distance": 0.10546875,
+                "image_id": "kbc1.png"
+            }
+        ],
+        "request_id": "csgo2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.09765625
+            },
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "NO",
+                "distance": 0.10546875
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.09765625,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|e1a7ed7e-b744-4edd-89d5-d7fad24902ad",
+                "decision": "NO",
+                "distance": 0.10546875,
+                "image_id": "csgo2.png"
+            }
+        ],
+        "request_id": "kbc1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|6d6162eb-a0bf-4017-a09d-4ad8a8c1dfa2",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "NO",
+                "distance": 0.12109375
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "NO",
+                "distance": 0.1484375
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|6d6162eb-a0bf-4017-a09d-4ad8a8c1dfa2",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|ca9483cd-6af9-4ab5-91ca-b75c4d8b0008",
+                "decision": "NO",
+                "distance": 0.12109375,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "NO",
+                "distance": 0.1484375,
+                "image_id": "webmail1.png"
+            }
+        ],
+        "request_id": "kbc2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|2f22daf6-624a-43ad-a18a-f66fd725bf64",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "MAYBE",
+                "distance": 0.0703125
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.1171875
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|2f22daf6-624a-43ad-a18a-f66fd725bf64",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|e3a0b37a-254e-42a3-87a2-aed97fc79aa0",
+                "decision": "MAYBE",
+                "distance": 0.0703125,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|5e6c50aa-24bf-4967-8e70-85e82fc5cf79",
+                "decision": "NO",
+                "distance": 0.1171875,
+                "image_id": "csgo1.png"
+            }
+        ],
+        "request_id": "webmail2.png",
+        "status": "matches_found"
+    }
+]

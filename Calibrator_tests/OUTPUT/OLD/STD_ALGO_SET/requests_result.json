@@ -1,0 +1,326 @@
+[
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.49858165922619047
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.15659937888198755,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "MAYBE",
+                "distance": 0.42062653186274507,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.4776506696428571,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.49858165922619047,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.5648161300505051,
+                "image_id": "webmail1.png"
+            }
+        ],
+        "request_id": "csgo1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.10524426745129872
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.5648161300505051
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.10524426745129872,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.1615726406490015,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.1754309275793651,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.5363002232142857,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.5648161300505051,
+                "image_id": "csgo1.png"
+            }
+        ],
+        "request_id": "webmail1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.15659937888198755
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.6147847269917582
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "csgo2.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "YES",
+                "distance": 0.15659937888198755,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "MAYBE",
+                "distance": 0.4237675107758621,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.5206566220238096,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.5363002232142857,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "NO",
+                "distance": 0.6147847269917582,
+                "image_id": "webmail2.png"
+            }
+        ],
+        "request_id": "csgo2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06305338541666665
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "MAYBE",
+                "distance": 0.42062653186274507
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06305338541666665,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06979522859675788,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.1754309275793651,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "MAYBE",
+                "distance": 0.42062653186274507,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "MAYBE",
+                "distance": 0.4237675107758621,
+                "image_id": "csgo2.png"
+            }
+        ],
+        "request_id": "kbc1.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06237444196428572
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.4776506696428571
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06237444196428572,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06979522859675788,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.1615726406490015,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.4776506696428571,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.5206566220238096,
+                "image_id": "csgo2.png"
+            }
+        ],
+        "request_id": "kbc2.png",
+        "status": "matches_found"
+    },
+    {
+        "list_cluster": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.0
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.49858165922619047
+            }
+        ],
+        "list_pictures": [
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.0,
+                "image_id": "webmail2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06237444196428572,
+                "image_id": "kbc2.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.06305338541666665,
+                "image_id": "kbc1.png"
+            },
+            {
+                "cluster_id": "cluster|bb43e8e3-d21c-4bb4-bffa-fa24f9f3d5e0",
+                "decision": "YES",
+                "distance": 0.10524426745129872,
+                "image_id": "webmail1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.49858165922619047,
+                "image_id": "csgo1.png"
+            },
+            {
+                "cluster_id": "cluster|5828d23f-3d06-4cda-9772-e8a815708f18",
+                "decision": "NO",
+                "distance": 0.6147847269917582,
+                "image_id": "csgo2.png"
+            }
+        ],
+        "request_id": "webmail2.png",
+        "status": "matches_found"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "algo_name": "A_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.1,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "P_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.11,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "P_HASH_SIMPLE",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.09,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "D_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.11,
+        "threshold_maybe_to_no": 0.11,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "D_HASH_VERTICAL",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.08,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "W_HASH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.08,
+        "threshold_maybe_to_no": 0.12,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "TLSH",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.18,
+        "threshold_maybe_to_no": 0.23,
+        "distance_weight": 1,
+        "decision_weight": 1
+    },
+    {
+        "algo_name": "ORB",
+        "is_enabled": true,
+        "threshold_yes_to_maybe": 0.01,
+        "threshold_maybe_to_no": 0.16,
+        "distance_weight": 1,
+        "decision_weight": 1
+    }
+]

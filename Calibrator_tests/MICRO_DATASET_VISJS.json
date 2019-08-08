@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "source": "VISJS"
+  },
+  "clusters": [
+    {
+      "id": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+      "image": "anchor.png",
+      "label": "csgo",
+      "shape": "image",
+      "group": "anchor",
+      "members": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+      "image": "anchor.png",
+      "label": "KMC",
+      "shape": "image",
+      "group": "anchor",
+      "members": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+      "image": "anchor.png",
+      "label": "webmail",
+      "shape": "image",
+      "group": "anchor",
+      "members": [
+        18,
+        19
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": 8,
+      "image": "csgo1.png",
+      "shape": "image"
+    },
+    {
+      "id": 9,
+      "image": "csgo2.png",
+      "shape": "image"
+    },
+    {
+      "id": 10,
+      "image": "kbc1.png",
+      "shape": "image"
+    },
+    {
+      "id": 11,
+      "image": "kbc2.png",
+      "shape": "image"
+    },
+    {
+      "id": 18,
+      "image": "webmail1.png",
+      "shape": "image"
+    },
+    {
+      "id": 19,
+      "image": "webmail2.png",
+      "shape": "image"
+    }
+  ],
+  "edges": [
+    {
+      "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+      "from": 8
+    },
+    {
+      "to": "c44833a8-6576-4fe1-bbfe-7a468c1bf4e5",
+      "from": 9
+    },
+    {
+      "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+      "from": 10
+    },
+    {
+      "to": "4f85bff0-666c-4f4a-8f3a-d932812ab45d",
+      "from": 11
+    },
+    {
+      "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+      "from": 18
+    },
+    {
+      "to": "9e976db1-5be0-482a-98fa-eb69cde8009c",
+      "from": 19
+    }
+  ]
+}

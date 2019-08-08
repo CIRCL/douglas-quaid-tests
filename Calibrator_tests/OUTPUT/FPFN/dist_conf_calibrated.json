@@ -1,0 +1,8 @@
+{
+    "TOP_N_CLUSTERS": 3,
+    "TOP_N_PICTURES": 10,
+    "PICT_TO_TEST_PER_CLUSTER": 3,
+    "MAX_DIST_FOR_NEW_CLUSTER": 0.16,
+    "CROSSCHECK": true,
+    "BOW_CMP_HIST": "CORREL"
+}

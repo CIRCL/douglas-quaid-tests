@@ -1,0 +1,38 @@
+[
+    {
+        "feature_time": null,
+        "adding_time": 100,
+        "request_time": 10,
+        "nb_picture_added": 100,
+        "nb_picture_total_in_db": null,
+        "nb_picture_requested": 10,
+        "iteration": 0
+    },
+    {
+        "feature_time": null,
+        "adding_time": 1000,
+        "request_time": 50,
+        "nb_picture_added": 500,
+        "nb_picture_total_in_db": null,
+        "nb_picture_requested": 10,
+        "iteration": 2
+    },
+    {
+        "feature_time": null,
+        "adding_time": 2300,
+        "request_time": 100,
+        "nb_picture_added": 1000,
+        "nb_picture_total_in_db": null,
+        "nb_picture_requested": 10,
+        "iteration": 3
+    },
+    {
+        "feature_time": null,
+        "adding_time": 13000,
+        "request_time": 500,
+        "nb_picture_added": 5000,
+        "nb_picture_total_in_db": null,
+        "nb_picture_requested": 10,
+        "iteration": 4
+    }
+]
